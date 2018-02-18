@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: almasn
+Build-Jdk: 9-Ubuntu
+Created-By: Maven Integration for Eclipse
+
